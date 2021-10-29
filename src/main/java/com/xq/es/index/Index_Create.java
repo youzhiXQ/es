@@ -1,4 +1,4 @@
-package com.xq.es;
+package com.xq.es.index;
 
 /*
  * @Description TODO
